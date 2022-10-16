@@ -1,0 +1,16 @@
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe.config
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.exe
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\bin\Debug\Bloco de Notas.pdb
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.AssemblyReference.cache
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\MainWindow.g.cs
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\App.g.cs
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas_MarkupCompile.cache
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas_MarkupCompile.lref
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\MainWindow.baml
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.g.resources
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco_de_Notas.Properties.Resources.resources
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.GenerateResource.cache
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.csproj.CoreCompileInputs.cache
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.exe
+D:\Documentos\Faculdade\d10\Bloco de Notas\Bloco de Notas\obj\Debug\Bloco de Notas.pdb
